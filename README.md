@@ -1,7 +1,7 @@
 # KIM DAUN
-- 현재는 관심가는 분야가 너무 많다! 현업을 겪으며 주인의식 가지고 개발하다보면 더 깊게 파고 싶어지는 분야가 생길 것 같다. 그 분야의 `specialist`가 되는 것이 목표이다.
-- 갱신 예정인 [자기소개글](https://www.notion.so/daun3046/Daun-Kim-2c7dcf5935d0463b9b44f65ec0632d13)
-- [velog](https://velog.io/@daun3046)로 이사했습니다(사유: 깃허브 블로그 오류)
+안녕하세요, 관심가는 분야가 너무 많아 고민인 🌱**주니어 개발자**입니다.
+- **Introduce**: https://daun3046.notion.site/Daun-Kim-2c7dcf5935d0463b9b44f65ec0632d13 갱신 예정
+- **Blog**: https://velog.io/@daun3046 로 이사했습니다(사유: 깃허브 블로그 오류)
 
 ## Skills
 <!-- 기술 스택 -->
