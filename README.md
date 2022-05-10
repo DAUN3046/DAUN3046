@@ -1,4 +1,6 @@
 # KIM DAUN
+블로그 유목민 https://velog.io/@daun3046
+
 ## Skills
 <!-- 기술 스택 -->
 <!-- HTML5, CSS, JS, Python, R, C++, C#, Mysql, Swift, Github-->
