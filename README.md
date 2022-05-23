@@ -1,7 +1,9 @@
 # KIM DAUN
 안녕하세요, 현재 FE 공부중인 주니어 개발자 김다운입니다.
 <!-- - **Introduce** | [Notion page](https://www.notion.so/daun3046/Daun-Kim-2c7dcf5935d0463b9b44f65ec0632d13) -->
-- **Blog** | https://velog.io/@daun3046 로 이사했습니다(사유: 깃허브 블로그 오류)
+- **Blog** | https://DAUN3046.github.io ~~https://velog.io/@daun3046 로 이사(사유: 깃허브 블로그 오류)~~ 
+
+TIL이나 자세한 활동은 깃허브에 기록하지만, 삽질이나 여러 경험은 공유하는 편이 좋다고 생각해서 따로 블로그에 기록중
 
 ## Skills
 <!-- 기술 스택 -->
