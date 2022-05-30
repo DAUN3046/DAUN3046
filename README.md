@@ -1,5 +1,5 @@
 # KIM DAUN
-안녕하세요, 현재 FE 공부중인 주니어 개발자 김다운입니다.
+안녕하세요, 현재 DS, FE 공부중인 주니어 개발자 김다운입니다.
 <!-- - **Introduce** | [Notion page](https://www.notion.so/daun3046/Daun-Kim-2c7dcf5935d0463b9b44f65ec0632d13) -->
 - **Blog** | https://DAUN3046.github.io
 
