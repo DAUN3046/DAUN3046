@@ -31,7 +31,7 @@ TIL이나 자세한 활동은 깃허브에 기록하지만, 삽질이나 여러 
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![image](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![image](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![image](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black)
+![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 <!-- 깃허브 통계 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daun3046)](https://github.com/anuraghazra/github-readme-stats)
