@@ -37,6 +37,10 @@ TIL이나 자세한 활동은 깃허브에 기록하지만, 삽질이나 여러 
 ![image](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
+## Certificate
+- ADsP
+- 빅데이터분석기사
+
 <!-- 깃허브 통계 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daun3046)](https://github.com/anuraghazra/github-readme-stats)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
