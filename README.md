@@ -1,4 +1,4 @@
-# KIM DAUN
+# 💬 KIM DAUN
 안녕하세요, 금융 DT 연구 중인 데이터 컨설턴트 김다운입니다.
 
 데이터과학과 개발의 흔적들을 모아둔 ~잡탕~ 깃허브에 어서오세요~
@@ -9,7 +9,7 @@
 
 TIL이나 자세한 활동은 깃허브에 기록하지만, 삽질이나 여러 경험은 공유하는 편이 좋다고 생각해서 따로 블로그에 기록중입니다.
 
-## Skills
+## 🛠 Skills
 <!-- 기술 스택 https://github.com/alexandresanlim/Badges4-README.md-Profile#-ide- -->
 <!-- HTML5, CSS, JS, Node.js, TS, React, Python, R, C++, C#, Mysql, Swift, Github-->
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -37,7 +37,7 @@ TIL이나 자세한 활동은 깃허브에 기록하지만, 삽질이나 여러 
 ![image](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-## Certificate
+## 📚 Certificate
 - ADsP
 - 빅데이터분석기사
 
@@ -47,6 +47,9 @@ TIL이나 자세한 활동은 깃허브에 기록하지만, 삽질이나 여러 
 <!-- 백준 티어 -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=daun3046)](https://solved.ac/daun3046)
+
+## 📫 How to reach me
+You can reach me at [daun3046@gmail.com] or on [LinkedIn](https://www.linkedin.com/in/daun-kim-540061246/).
 
 <!--
 **DAUN3046/DAUN3046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,4 +64,29 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
+-->
+<!--
+# Hello, I'm [Your Name] 👋
+
+## 🚀 About Me
+I'm a [Your Job Title], currently working at [Your Company Name]. I have [Number of Years of Experience] years of experience in [Your Field of Expertise].
+
+## 🛠 Skills
+- Programming Languages: [List of Programming Languages]
+- Tools/Frameworks: [List of Tools/Frameworks]
+- Databases: [List of Databases]
+- Other Skills: [List of Other Skills]
+
+## 🎓 Education
+- [Degree], [University], [Year]
+
+## 💼 Work Experience
+- [Job Title], [Company], [Start Date - End Date]
+  - [Brief Description of Your Role and Achievements]
+
+## 📚 Certifications
+- [Certification Name], [Issuing Organization], [Year]
+
+## 📫 How to reach me
+You can reach me at [Your Email] or on [LinkedIn](https://www.linkedin.com/in/[/).
 -->
