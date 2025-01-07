@@ -10,6 +10,7 @@
 TIL이나 자세한 활동은 깃허브에 기록하지만, 삽질이나 여러 경험은 공유하는 편이 좋다고 생각해서 따로 블로그에 기록중입니다.
 
 ## 🛠 Skills
+Skills라고 쓰고 어디서 본 적 있는 것들이라고 읽는 비개발자
 <!-- 기술 스택 https://github.com/alexandresanlim/Badges4-README.md-Profile#-ide- -->
 <!-- HTML5, CSS, JS, Node.js, TS, React, Python, R, C++, C#, Mysql, Swift, Github-->
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
