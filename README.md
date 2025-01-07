@@ -1,7 +1,7 @@
 # 💬 KIM DAUN
 안녕하세요, 금융IT컨설턴트 김다운입니다.
 
-데이터과학과 개발의 흔적들을 모아둔 ~잡탕~ 깃허브에 어서오세요~
+데이터과학과 개발의 흔적들을 모아둔 ~비전공자 출신 개발자도 아니고 전공자 출신 비개발자의 잡탕~ 깃허브에 어서오세요~
 
 <!-- 제가 짠 못생긴 코드들을 어떻게 하면 멋지게 고칠 수 있는지가 최대의 고민입니다. 피드백과 교류 환영합니다! -->
 <!-- - **Introduce** | [Notion page](https://www.notion.so/daun3046/Daun-Kim-2c7dcf5935d0463b9b44f65ec0632d13) -->
@@ -10,7 +10,6 @@
 TIL이나 자세한 활동은 깃허브에 기록하지만, 삽질이나 여러 경험은 공유하는 편이 좋다고 생각해서 따로 블로그에 기록중입니다.
 
 ## 🛠 Skills
-Skills라고 쓰고 어디서 본 적 있는 것들이라고 읽는 비개발자
 <!-- 기술 스택 https://github.com/alexandresanlim/Badges4-README.md-Profile#-ide- -->
 <!-- HTML5, CSS, JS, Node.js, TS, React, Python, R, C++, C#, Mysql, Swift, Github-->
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
